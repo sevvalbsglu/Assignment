@@ -1,0 +1,10 @@
+C:\Users\sevva\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\sevva\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\sevva\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\sevva\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
